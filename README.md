@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @mcpicc</h1>
+<h1 align="center">Hello World 👋, I'm @mcpicc</h1>
 <h3 align="center">I am a data science student & game dev enthusiast from South Florida</h3>
 
 - 🔭 I’m interested in **data science, machine learning, game development, & more**
