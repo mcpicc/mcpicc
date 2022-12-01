@@ -1,9 +1,7 @@
 <h1 align="center">Hello World 👋, I'm @mcpicc</h1>
-<h3 align="center">I am a data science student & game dev enthusiast from South Florida</h3>
+<h3 align="center">I am a data science student from South Florida</h3>
 
 - 🔭 I’m interested in **data science, machine learning, game development, & more**
-
-- 🌱 I’m currently learning **Blender & Unreal, as well as advancing my Python and R skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
